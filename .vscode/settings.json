@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/1459cdfc-b690-428e-8a9f-8acbbe4e0b0e/resourceGroups/lfz/providers/Microsoft.Web/sites/lfz-az-react-app",
+    "appService.deploySubpath": "az-react-app/build"
+}
